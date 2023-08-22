@@ -1,0 +1,45 @@
+/* Body Style */
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+/* Jumbotron Style */
+.jumbotron {
+  padding-top: 10rem;
+  background-color: #293559;
+  color: white;
+}
+
+.jumbotron img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  box-shadow: 2px 2px;
+}
+
+.jumbotron img:hover {
+  box-shadow: 0 0 10px 10px rgba(255, 255, 255, 0.5);
+}
+
+.jumbotron h1 {
+  padding-top: 20px;
+}
+
+.jumbotron p {
+  font-style: italic;
+}
+
+#projects {
+  background-color: #293559;
+  /* color: white;\ */
+}
+
+#footer {
+  background-color: #eaf1ff;
+  padding: 10px;
+  text-align: center;
+}
+
+section h2 {
+  padding-top: 5rem;
+}
