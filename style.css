@@ -34,6 +34,10 @@ body {
   /* color: white;\ */
 }
 
+#projects h2 {
+  color: white;
+}
+
 #footer {
   background-color: #eaf1ff;
   padding: 10px;
